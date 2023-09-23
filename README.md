@@ -1,5 +1,5 @@
-# Algorithmic-Trading-Mini-Projects
-Three small algorithmic trading related projects: Equal Weight Stock Portfolio, Quantitative Momentum Investing Strategy, and a Quantitative Value Investing Strategy, with guidance from free code camp
+# Quantitative-Trading-Mini-Projects
+Three small quantitative trading related projects: Equal Weight Stock Portfolio, Quantitative Momentum Investing Strategy, and a Quantitative Value Investing Strategy, with guidance from free code camp
 
 
 
