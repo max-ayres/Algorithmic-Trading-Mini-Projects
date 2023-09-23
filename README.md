@@ -1,5 +1,4 @@
 # Algorithmic-Trading-Mini-Projects
-Completed in 2022 Summber, however, got lost on my computer and so only just found it, one by one
 Three small algorithmic trading related projects: Equal Weight Stock Portfolio, Quantitative Momentum Investing Strategy, and a Quantitative Value Investing Strategy
 
 
